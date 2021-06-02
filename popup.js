@@ -1,4 +1,3 @@
-document.getElementById("submit").addEventListener("click", calculate)
 document.getElementById("7b").addEventListener("click", () => (des(7)))
 document.getElementById("8b").addEventListener("click", () => (des(8)))
 document.getElementById("9b").addEventListener("click", () => (des(9)))
@@ -19,9 +18,8 @@ document.getElementById(".b").addEventListener("click", () => (des(".")))
 document.getElementById("Cb").addEventListener("click", () => (rem("C")))
 document.getElementById("ACb").addEventListener("click", () => (rem("AC")))
 
-
-
-function calculate(){
+form.addEventListener("submit", (e) =>{
+    e.preventDefault();
     var input = document.getElementById("textField").value;
     var value = "";
     try {
@@ -33,7 +31,8 @@ function calculate(){
         value = "Error";
     }
     document.getElementById("textField").value=value;
-}
+
+})
 
 function des(val){
 
