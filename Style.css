@@ -4,7 +4,7 @@
   }
   
   body {
-    background: #EAEBEC;
+    background: #3A4655;
   }
   input{
     width: -webkit-fill-available;
@@ -37,7 +37,7 @@
   
   .calc-operation {
     text-align: right;
-    color: #727B86;
+    color: rgb(240, 163, 22);
     font-size: 21px;
     padding-bottom: 10px;
     border-bottom: dotted 1px;
