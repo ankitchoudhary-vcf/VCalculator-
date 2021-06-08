@@ -3,6 +3,10 @@
 This is an chrome extension to use as a simple calculator right into the browser. This is just your simple calculator that will help you to mathematical manuplation or calculation's in your browser or computer.
 
 ### How to Use it
+
+If have developed any extensions before then you might be familiar with the process of loading an extension into your browser. If not then? Don’t worry I am explaining the process to you below
+
+
 1. Download this repository
 2. Extract the zip file
 3. Open any chromium based browser eg. Brave, Chrome, Edge etc
