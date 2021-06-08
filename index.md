@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# VCalculator
+## Chrome Extension for Calculation
 
-You can use the [editor on GitHub](https://github.com/ankit1509/VCalculator-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### How to Use it
+1. Download this repository
+2. Extract the zip file
+3. Open any chromium based browser eg. Brave, Chrome, Edge etc
+4. Go to settings
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/4.png)
+5. Go to Extensions
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/5.png)
+5. Click Manage Extensions
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/6.png)
+6. Turn on developer mode
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/7.png)
+7. Click "Load Unpacked"
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/8.png)
+8. Select the extracted repository 
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/9.png)
+9. Pin this extension
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/10.png)
+10. Start Using
+![](https://github.com/ankit1509/VCalculator-/tree/master/images/11.png)
+Done 👍🏻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankit1509/VCalculator-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+Made By VCF Devs
