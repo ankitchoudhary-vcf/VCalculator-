@@ -6,53 +6,55 @@ This is an chrome extension to use as a simple calculator right into the browser
 
 If have developed any extensions before then you might be familiar with the process of loading an extension into your browser. If not then? Don’t worry I am explaining the process to you below
 
-
+```
 1. Download this repository
 2. Extract the zip file
 3. Open any chromium based browser eg. Brave, Chrome, Edge etc
 4. Go to settings
+```
 
 ![](images/4.png)
 
-
+```
 5. Go to Extensions
-
+```
 
 ![](images/5.png)
 
 
-
+```
 6. Click Manage Extensions
+```
 
 ![](images/6.png)
 
-
+```
 7. Turn on developer mode
-
+```
 
 ![](images/7.png)
 
-
+```
 8. Click "Load Unpacked"
-
+```
 
 ![](images/8.png)
 
-
+```
 9. Select the extracted repository
-
+```
 
 ![](images/9.png)
 
-
+```
 10. Pin this extension
-
+```
 
 ![](images/10.png)
 
-
+```
 11. Start Using
-
+```
 
 ![](images/11.png)
 
