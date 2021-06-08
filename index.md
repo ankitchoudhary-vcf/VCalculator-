@@ -11,21 +11,53 @@ If have developed any extensions before then you might be familiar with the proc
 2. Extract the zip file
 3. Open any chromium based browser eg. Brave, Chrome, Edge etc
 4. Go to settings
+
 ![](images/4.png)
+
+
 5. Go to Extensions
+
+
 ![](images/5.png)
-5. Click Manage Extensions
+
+
+
+6. Click Manage Extensions
+
 ![](images/6.png)
-6. Turn on developer mode
+
+
+7. Turn on developer mode
+
+
 ![](images/7.png)
-7. Click "Load Unpacked"
+
+
+8. Click "Load Unpacked"
+
+
 ![](images/8.png)
-8. Select the extracted repository 
+
+
+9. Select the extracted repository
+
+
 ![](images/9.png)
-9. Pin this extension
+
+
+10. Pin this extension
+
+
 ![](images/10.png)
-10. Start Using
+
+
+11. Start Using
+
+
 ![](images/11.png)
+
+
+
 Done 👍🏻
 
 ***
