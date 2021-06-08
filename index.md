@@ -1,5 +1,6 @@
 # VCalculator
-## Chrome Extension for Calculation
+
+This is an chrome extension to use as a simple calculator right into the browser. This is just your simple calculator that will help you to mathematical manuplation or calculation's in your browser or computer.
 
 ### How to Use it
 1. Download this repository
@@ -25,3 +26,5 @@ Done 👍🏻
 
 ***
 Made By VCF Devs
+
+Dev. Name: Ankit Choudhary
