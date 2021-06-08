@@ -1,1 +1,4 @@
 theme: jekyll-theme-hacker
+title: VCaculator
+description: A Simple Calculator
+show_downloads: true
